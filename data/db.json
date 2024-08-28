@@ -1,0 +1,66 @@
+{
+  "products": [
+    {
+      "id": "PROD-0001",
+      "name": "Blackmores Omega Double High Strength Fish Oil",
+      "description": "",
+      "categoryId": "G001",
+      "price": 598000,
+      "quantity": 1000,
+      "entryDate": "24/01/2023"
+    },
+    {
+      "id": "PROD-0003",
+      "name": "Máy đo huyết áp bắp tay Microlife B3 Basic",
+      "description": "",
+      "categoryId": "G002",
+      "price": 1350000,
+      "quantity": 500,
+      "entryDate": "03/02/2023"
+    },
+    {
+      "id": "PROD-0004",
+      "name": "Efferalgan",
+      "description": "",
+      "categoryId": "G003",
+      "price": 30000,
+      "quantity": 65,
+      "entryDate": "11/11/2023"
+    },
+    {
+      "id": "PROD-0005",
+      "name": "Nhiệt kế hồng ngoại Kachi JXB-315",
+      "description": "",
+      "categoryId": "G002",
+      "price": 768000,
+      "quantity": 20,
+      "entryDate": "15/10/2023"
+    },
+    {
+      "id": "PROD-0064",
+      "name": "Helme 230",
+      "categoryId": "G001",
+      "entryDate": "2024-08-27",
+      "quantity": 100,
+      "price": 130000,
+      "description": "haha"
+    }
+  ],
+  "category": [
+    {
+      "categoryId": "G001",
+      "name": "Thực phẩm chức năng",
+      "description": "Sản phẩm này không phải là thuốc."
+    },
+    {
+      "categoryId": "G002",
+      "name": "Thiết bị y tế",
+      "description": "Thiết bị phục vụ trong quá trình khám chữa bệnh."
+    },
+    {
+      "categoryId": "G003",
+      "name": "Dược phẩm",
+      "description": "Sản phẩm được kê đơn theo hướng dẫn của bác sĩ."
+    }
+  ]
+}
